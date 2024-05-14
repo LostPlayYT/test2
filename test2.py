@@ -33,4 +33,4 @@ for i in range(random.randint(1, 15)):
         body = body - 1
         print("Špatně, ztrácíš bod, tvé body:", body)
 
-print("-_- GAMER OVER -_-, tvé body", body)
+print("-_- GAMER OVER 0_0, tvé body", body)
